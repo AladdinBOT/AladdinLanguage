@@ -77,7 +77,7 @@
 [command.weather.embed.field.7] = Atmosphere:
 [command.minecraft.description] = Minecraft commands
 [command.osu.profile.notopplay] = The player does not have a top play
-[command.premium.features.embed.description] = :one: Infinite number of playlists (``%s``)\n:two: Infinite number of songs by playlist (``%s``)\n:three: Infinite music time in queue(``%s``)\n:four: Infinite tracks by playlist Tracks on queue (``%s``)\n:five: Access to the command ``%s``\n:six: Unlimited time on the command ``%s``\n:seven: Tempo ilimitado no comando ``%s``\nMore benefits will be added soon
+[command.premium.features.embed.description] = :one: Infinite music time in queue(``%s``)\n:two: Infinite tracks by playlist Tracks on queue (``%s``)\n:three: Access to the command ``%s``\n:four: Unlimited time on the command ``%s``\n:five: Tempo ilimitado no comando ``%s``\nMore benefits will be added soon
 [config.starboard_selfreact.description] = Allows self reactions on starboards
 [command.akinator.alreadyingame] = 😟 Whoops, you're already in an Akinator!
 [command.paladins.profile.field.wins] = Wins

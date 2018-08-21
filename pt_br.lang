@@ -1,4 +1,4 @@
-[music.leftalone] = 🤔 Fui deixado sozinho no canal de música, irei sair em 1 minuto caso ninguém entre!
+﻿[music.leftalone] = 🤔 Fui deixado sozinho no canal de música, irei sair em 1 minuto caso ninguém entre!
 [music.addtoqueue] = :musical_note: %s adicionou a música ``%s`` na playlist! (``%s``) [``%s``]
 [music.skipremoved] = :guitar: ``%s`` retirou seu voto para pular! (``%s/%s``)
 [music.skipadded] = :guitar: ``%s`` votou para pular a música atual! (``%s/%s``)
@@ -277,7 +277,7 @@
 [command.premium.nokeys] = 😟 Oops, parece que você não possui uma chave de ativação.
 [command.premium.features.embed.title] = :key2: Mostrando os benefícios premium
 [command.premium.features.embed.footer] = Pedido por %s
-[command.premium.features.embed.description] = :one: Quantidade infinita de playlists (``%s``)\n:two: Quantidade infinita de músicas por playlist (``%s``)\n:three: Tempo de música infinito na queue (``%s``)\n:four: Tracks por playlist infinita na queue (``%s``)\n:five: Acesso ao comando ``%s``\n:six: Tempo ilimitado no comando ``%s``\n:seven: Tempo ilimitado no comando ``%s``\nMais benefícios serão adicionados em breve
+[command.premium.features.embed.description] = :one: Tempo de música infinito na queue (``%s``)\n:two: Tracks por playlist infinita na queue (``%s``)\n:three: Acesso ao comando ``%s``\n:four: Tempo ilimitado no comando ``%s``\n:five: Tempo ilimitado no comando ``%s``\nMais benefícios serão adicionados em breve
 [command.premium.info.embed.title] = :beginner: Informações da conta de %s
 [command.premium.info.embed.description] = Para ativar uma chave use ``%s``
 [command.premium.info.embed.field.1] = Chaves restantes
