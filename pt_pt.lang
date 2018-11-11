@@ -5,9 +5,9 @@
 [music.queuefinished] = :musical_note: Playlist finalizada, desconectando...
 [music.notonsamechannel] = 😟 Oops, tu não estás conectado ao canal no qual eu estou tocando!
 [music.notonchannel] = 😟 Oops, não estás conectado a um canal de voz!
-[music.nopermission] = 😟 Oops, parece que eu não tenho permisssão para entrar no teu canal de voz!
-[music.roomlimit] = 😟 Oops, parece que eu não posso entrar no teu canal de voz já que o limite de usuários foi alcançado!
-[music.lostconnection] = 😟 Oops, parece que eu perdi a conexão com o canal de audio!
+[music.nopermission] = 😟 Oops, parece que eu não tenho permissão para entrar no teu canal de voz!
+[music.roomlimit] = 😟 Oops, parece que eu não posso entrar no teu canal de voz já que o limite de utilizadores foi alcançado!
+[music.lostconnection] = 😟 Oops, parece que eu perdi a ligação com o canal de audio!
 [music.nowplaying] = :musical_note: Tocando agora ``%s``(%s) em ``#%s`` adicionada por ``%s``
 [music.cannotreproduce] = 😟 Oops, não foi possível reproduzir a musica ``%s``: %s
 [music.stuck] = 😟 Oops, a musica travou, vou avançá-la!
@@ -29,7 +29,7 @@
 [command.music.skip.success] = :guitar: O autor do pedido, ``%s``, pediu para saltar a música!
 [command.music.repeat.description] = Altere o modo de repetição do player!
 [command.music.repeat.success.1] = ✅ Tu desativou o modo de repetição da guilda.
-[command.music.repeat.success.2] = ✅ Tu alteraste o modo de repetição da guilda para ``MUSICA``.
+[command.music.repeat.success.2] = ✅ Tu alteraste o modo de repetição da guilda para ``MÚSICA``.
 [command.music.repeat.success.3] = ✅ Tu alteraste o modo de repetição da guilda para ``PLAYLIST``.
 [command.music.queue.description] = Vê a playlist atual do player de musica
 [command.music.queue.error.notplaying] = 😟 Oops, não há musicas sendo tocadas agora!
@@ -52,7 +52,7 @@
 [commandexecutor.premium] = 📥 Para utilizar este comando é necessário uma conta premium, tu podes ver as vantagens de ser premium digitando ``%s``
 [commandexecutor.error] = Ooops, parece que ocorreu um erro ao tentar executar este comando, este erro foi notificado a meu supervisor.
 [commandexecutor.nopermission] = 😟 Oops, parece que não tens permissão para executar este comando. **(%s)**
-[commandexecutor.suppostcommand] = Comando invalido, quiseste dizer **%s** (y/n)?
+[commandexecutor.suppostcommand] = Comando inválido, quiseste dizer **%s** (y/n)?
 [commandexecutor.invalidparams] = 🤔 Oops, esqueceste-te de especificar os parâmetros!!\n**Use:** %s %s
 [config.prefix.description] = Prefixo principal para comandos
 [config.member_create_cmds.description] = Define se membros irão poder criar comandos.
@@ -80,17 +80,17 @@
 [command.bot.status.embed.description] = Para mais informações entre na [guilda do Aladdin](https://discord.gg/ubwxx8A)!\nJDA Version ``%s``
 [command.bot.status.embed.field.1] = Uptime:
 [command.bot.status.embed.field.2] = :beginner: Guildas:
-[command.bot.status.embed.field.3] = :information_desk_person: Usuários:
+[command.bot.status.embed.field.3] = :information_desk_person: Utilizadores:
 [command.bot.status.embed.field.4] = :page_with_curl: Canais de texto:
 [command.bot.status.embed.field.5] = :small_blue_diamond: Shards:
 [command.bot.status.embed.field.6] = :desktop: CPU:
 [command.bot.status.embed.field.7] = :vertical_traffic_light: RAM:
 [command.bot.status.embed.field.8] = :musical_note: Canais de voz:
-[command.bot.status.embed.field.9] = :musical_keyboard: Players de musica:
+[command.bot.status.embed.field.9] = :musical_keyboard: Players de música:
 [command.bot.status.embed.field.10] = :newspaper: Lavaplayer:
 [command.bot.info.embed.author] = Sobre Aladdin
 [command.bot.info.embed.description] = Olá meu nome é Aladdin, caso não saibas eu fui inspirado no anime [Magi](https://pt.wikipedia.org/wiki/Magi_(mang%C3%A1), eu tenho como foco ações administrativas porém posso ser bastante útil em outras coisas variantes desde diversão até musica, sendo desenvolvido pelo ``HeyZeer0#0190``.\nEm minha aventura eu sou acompanhado pelos meus grandes amigos Ali babá e Morgiana, talvez os encontre por aí. O meu objetivo é aprender mais e mais sobre este mundo, podes me chamar para sua guilda clicando [aqui](https://discordapp.com/oauth2/authorize?client_id=321349548712656896&scope=bot&permissions=2146958463)!\nEae, gostaria de ser meu amigo?
-[command.chatclear.description] = Limpe as mensagens do chat
+[command.chatclear.description] = Limpa as mensagens do chat
 [command.chatclear.nomessages] = 😟 Oops, parece não há mensagens para deletar!
 [command.chatclear.success.bot] = ✅ Foram removidas ``%s`` mensagens de bots!
 [command.chatclear.error.wrongamount] = 😟 Oops, a quantidade definida é invalida.\n**Valor máximo:** ``99`` - **Valor minímo:** ``0``
@@ -132,7 +132,7 @@
 [command.giveaway.formula.success.1] = ✅ A formula utilizada para selecionar os vencedores é ``seed % número de participantes``. :interrobang: Podes utilizar ``%s`` para checar uma seed.
 [command.giveaway.formula.success.2] = ✅ A seed retornou o valor ``%s``. Cheque a lista das reaçoes para achar o ganhador.
 [command.giveaway.builder.notset] = Não definido
-[command.giveaway.builder.embed.prize.title] = :moneybag: Adicionando um premio
+[command.giveaway.builder.embed.prize.title] = :moneybag: Adicionando um prémio
 [command.giveaway.builder.embed.prize.description] = Reage com os valores indicados abaixo para os alterar\nquando estiver pronto clica no :white_check_mark:\n\n:one: Nome: %s\n:two: Mensagem privada: %s
 [command.giveaway.builder.embed.main.title] = :moneybag: A criar o teu sorteio
 [command.giveaway.builder.embed.main.description] = Reage com os valores indicados abaixo para os alterar\nquando estiver pronto clica no :white_check_mark:\n\n:one: Titulo do sorteio: %s\n:two: Data de finalização: %s\n:three: Premios: %s\n:four: Canal onde ocorrerá: %s
@@ -146,7 +146,7 @@
 [command.giveaway.builder.main.noprizeset] = 😟 Oops, Tu precisas ao menos adicionar um premio.
 [command.giveaway.builder.main.set.title] = 🤔 digita no chat o título do sorteio.
 [command.giveaway.builder.main.set.time] = 🤔 digita no chat quanto tempo deseja para o sorteio. Ex ``2h = 2 horas | 2m = 2 minutos``
-[command.giveaway.builder.main.set.time.error.timelimit] = 📥 tu não podes exceder o tempo maximo de 24 horas. tu podes ignorar esta limitação ativando uma chave premium, para mais informações utilize ``%s``
+[command.giveaway.builder.main.set.time.error.timelimit] = 📥 Tu não podes exceder o tempo maximo de 24 horas. tu podes ignorar esta limitação ativando uma chave premium, para mais informações utilize ``%s``
 [command.giveaway.builder.main.set.time.error.invalid] = 😟 Oops, o tempo inserido é invalido, tu podes digitar ``cancelar`` para cancelar.
 [command.giveaway.builder.main.set.channel] = 🤔 Mencione no chat o canal cujo o sorteio ocorrerá.
 [command.giveaway.builder.main.set.channel.error.invalid] = 😟 Oops, você deve mencionar um canal ou digitar ``cancelar`` para cancelar.
@@ -224,7 +224,7 @@
 [command.log.modules.activate.success] = ✅ Você ativou o modulo ``%s``
 [command.log.modules.deactivate.success] = ✅ Você desativou o modulo ``%s``
 [command.math.description] = Realize operações matemáticas.
-[command.math.error] = 😟 Oops, a expressão metemática inserida é invalida
+[command.math.error] = 😟 Oops, a expressão matemática inserida é invalida
 [command.math.success] = ✅ **Resposta**: `%s`
 [command.minecraft.description] = Comandos sobre minecraft
 [command.minecraft.status.embed.title] = Mojang Status
