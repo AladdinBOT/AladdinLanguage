@@ -313,7 +313,7 @@
 [command.overwatch.profile.invaliduser.2] = 😟 Whoops, the player ``%s`` does not exist.
 [command.overwatch.profile.invaliduser.1] = 😟 Whoops, it's necessary to include the player ID, for instance: ``HeyZeer0#1903``
 [command.bot.status.embed.title] = Aladdin - Informations
-[command.bot.status.embed.description] = For more info enter [Aladdin's guild](https://discord.gg/ubwxx8A)!\nJDA Version ``%s``
+[command.bot.status.embed.description] = For more info join [Aladdin's guild](https://discord.gg/sDZsd6B)!\nJDA Version ``%s``
 [command.user.addperm.error.alreadyhas] = 😟 Ops, it looks like the member already got that permission.
 [commandexecutor.premium] = 📥 To use this command you need to be premium, you can check all features using ``%s``
 [command.giveaway.builder.prize.set.message] = 🤔 Type in the chat the message that you want to be sent to the winner via DM.
