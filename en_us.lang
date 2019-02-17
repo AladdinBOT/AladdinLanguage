@@ -118,7 +118,7 @@
 [command.commands.import.error.unknowncommand] = 😟 Whoops, seems like there are no commands to import!
 [command.giveaway.builder.prize.notitleset] = 😟 Whoops, you need to at least set the title for your prize!
 [command.group.create.groupexists] = 😟 Whoops, it looks like that group already exists!
-[command.chatclear.success.bot] = ✅ There were removed ``%s`` bot messages!
+[command.chatclear.success.bot] = ✅ ``%s`` bot messages were removed!
 [command.commands.delete.error.unknowncommand] = 😟 Whoops, seems like this command doesn't exist! ^0^
 [command.giveaway.builder.success] = ✅ Draw created succesfully.
 [command.starboard.config.ignorechannel.success.1] = ✅ You disabled ignoring the channel %s on starboard ``%s``.
